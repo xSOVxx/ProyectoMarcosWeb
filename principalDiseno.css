@@ -1,0 +1,14 @@
+/*-------MODAL LOGIN--------*/
+#botonRegistro{
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: black;
+}
+#botonRegistro:hover{
+    background-color: black;
+    border: none;
+    color: white;
+}
+
+/*-------------------------*/
